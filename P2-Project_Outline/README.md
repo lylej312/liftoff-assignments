@@ -7,12 +7,30 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Our project will be a bill tracker that allows users to track their bills, overview their expenses visually with a graphic, and organize all outgoing costs in one central location. Users will be able to log in to their account, create, edit and remove bills. They will be able to set a reminder for when an upcoming bill is due.
+
+Our group chose this project because we all felt a connection with its core features-it'll be a central place to keep track of all bills. No longer will a bill be missed because it was at the bottom of a stack of paper or lost somewhere in the junk mail inbox. If you remember to put the bill into the bill tracker, you remember to pay it.
+
 ### Features
-Include Features here
+- User Sign up: Users will be able to create an account for themselves, giving them the ability to input their bills and set due dates.
+
+- User Login: Users will be able to log in after creating a profile
+
+- Edit, Create, Delete Bills: Users will be able to create, edit, and delete bills
+
+- Bill Categories Represented Visually: Users will be able to view a graphic of their bill categories
+
+- Set Bill Reminders: Users will be able to set a reminder of when a bill is due, and the bill tracker will send a reminder email
+
 ### Technologies
-Include Technologies here
+- Java
+- ThymeLeaf
+- BootStrap
+- SQL
+- MS Graph
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+JavaMail API, MS Graph API
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/zrQnDjXq/liftoff-project
